@@ -1,17 +1,51 @@
-- 👋 Olá, me chamo Maria Eduarda
-- ✨ Tenho 15 anos.
-- 😃 Meu hobby preferido é desenhar e cantar🎤
-- 🫶🏼 Sou uma pessoa carinhosa e gentil.
-- 😋 Minha comida preferida é lasanha e brownie.
-- 😄 Meu apelido favorito é Dudinha.
-- ⚡ Meu esporte favorito é academia.💪🏽
-- 📌 Um lugar predileto meu é a igreja a natureza☘️.
-- ❤️ Meu melhor amigo é Deus e meus pais.
-- 
+<html lang="pt-BR">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Aluraflix</title>
+</head>
 
-- 
+<body>
+    <header>ALURAFLIX</header>
 
-<!---
-Rosa010209/Rosa010209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <section>
+        <div class="chamada-texto">
+            <h1>TOM E JERRY É UMA BOA RECOMENDAÇÃO?</h1>
+            <p>#tom e jerry</p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="<html lang="pt-BR">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Aluraflix</title>
+</head>
+
+<body>
+    <header>ALURAFLIX</header>
+
+    <section>
+        <div class="chamada-texto">
+            <h1>TOM E JERRY É UMA BOA RECOMENDAÇÃO?</h1>
+            <p>#TOM E JERRY</p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" srr¨https://www.youtube.com/watch?v=5b5HJDa_Z2o"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+</body>
+
+</html>E"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+</body>
+
+</html>
