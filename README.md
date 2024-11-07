@@ -32,7 +32,7 @@
 
             <button class="btn-proximo" data-proximo="1"> Ceará</button>
 
-            <button class="btn-proximo" data-proximo="2">Pernambuco</button>
+            <button class="btn-proximo" data-proximo="2">Ceará</button>
 
         </div>
 
@@ -104,11 +104,11 @@
 
         <div class="passo" id="passo-7">
 
-            <p>No centro, a busca pela cidade perdida se intensifica. Você se depara com um rio bifurcado.</p>
+            <p>No centro, a busca pela cidade perdida se intensifica. Você se depara com um lago bifurcado.</p>
 
-            <button class="btn-proximo" data-proximo="9">Seguir pelo rio à esquerda</button>
+            <button class="btn-proximo" data-proximo="9">Seguir pelo lago à esquerda</button>
 
-            <button class="btn-proximo" data-proximo="10">Seguir pelo rio à direita</button>
+            <button class="btn-proximo" data-proximo="10">Seguir pelo lago à direita</button>
 
         </div>
 
@@ -142,7 +142,7 @@
 
                 aqui.</p>
 
-            <button class="btn-proximo" data-proximo="12">Retornar e tentar o outro rio</button>
+            <button class="btn-proximo" data-proximo="12">Retornar e tentar o outro lago</button>
 
         </div>
 
@@ -162,7 +162,7 @@
 
         <div class="passo" id="passo-12">
 
-            <p>Retornando e escolhendo o rio à esquerda, você finalmente encontra a cachoeira escondida e as inscrições
+            <p>Retornando e escolhendo o lago à esquerda, você finalmente encontra a cachoeira escondida e as inscrições
 
                 que levam à cidade perdida.</p>
 
